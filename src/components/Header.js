@@ -18,7 +18,7 @@ const Header = () => {
                 <a href="/" className="dropdown-toggle nav__item-link active">Home</a></li>
               <li className="nav__item with-dropdown">
                 <a href="#/" className="dropdown-toggle nav__item-link">Who We Are</a>
-                <i className="fab fa-angle-right" data-toggle="dropdown"></i>
+                <i className="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul className="dropdown-menu">
                   <li className="nav__item"><a href="/about" className="nav__item-link">About Us</a></li>
                   <li className="nav__item"><a href="/why-us" className="nav__item-link">Why Evermore</a></li>
@@ -27,7 +27,7 @@ const Header = () => {
               </li>
               <li class="nav__item with-dropdown">
                 <a href="#/" className="dropdown-toggle nav__item-link">Services</a>
-                <i className="fab fa-angle-right" data-toggle="dropdown"></i>
+                <i className="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul className="dropdown-menu">
                   <li className="nav__item"><a href="/consulting" className="nav__item-link">Consulting Services</a></li>
                   <li className="nav__item"><a href="/delivery" className="nav__item-link">Service Delivery &amp; Property Service</a></li>
@@ -36,7 +36,7 @@ const Header = () => {
               </li>
               <li className="nav__item with-dropdown">
                 <a href="#/" className="dropdown-toggle nav__item-link">HSE</a>
-                <i className="fab fa-angle-right" data-toggle="dropdown"></i>
+                <i className="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul className="dropdown-menu">
                   <li className="nav__item"><a href="/hse" className="nav__item-link">HSE</a></li>
                   <li className="nav__item"><a href="/report" className="nav__item-link">Report and Obervations</a></li>
@@ -44,7 +44,7 @@ const Header = () => {
               </li>
               <li className="nav__item with-dropdown">
                 <a href="#/" className="dropdown-toggle nav__item-link">Media</a>
-                <i className="fab fa-angle-right" data-toggle="dropdown"></i>
+                <i className="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul className="dropdown-menu">
                   <li className="nav__item"><a href="/newsevent" className="nav__item-link">News &amp; Event</a></li>
                 </ul>
@@ -61,7 +61,7 @@ const Header = () => {
             <ul className="list-unstyled d-flex align-items-center modules__btns-list">
               {/* <li className="d-none d-lg-block">
                 <div className="module__btn module__btn-phone d-flex align-items-center">
-                  <i className="fab fa-lock"></i>
+                  <i className="fa fa-lock"></i>
                   <a href="tel:5565454117">login</a>
                 </div>
               </li> */}
