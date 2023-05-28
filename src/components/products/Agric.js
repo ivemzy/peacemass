@@ -66,9 +66,9 @@ const Agric = () => {
                   <p>
                     <img
                       alt="A person spraying a field with a helicopterDescription automatically generated with low confidence"
-                      height={197}
+                      height={269}
                       src="assets/images/products/ag2.png"
-                      width={371}
+                      width={474}
                     />
                   </p>
                   <p>
@@ -83,10 +83,8 @@ const Agric = () => {
                     etc. to meet the requirement of farmers.
                   </p>
                   <p>
-                    <br />
                   </p>
                   <p>
-                    <br />
                   </p>
                   <p>Greenhouse</p>
                   <p>
