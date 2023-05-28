@@ -18,6 +18,10 @@ const Footer = () => {
                     <i className="icon-phone" />
                     <a href="tel:5565454117">+234-8107502055</a>
                   </p>
+                  <p className="footer__contact-phone">
+                  <i className="fa fa-envelope" />
+                    <a className="emailC" href="mailto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a>
+                  </p>
                   <p>Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</p>
                   <ul className="social__icons">
                     <li>
@@ -91,18 +95,7 @@ const Footer = () => {
                 </div>
                 {/* /.footer-widget-content */}
               </div>
-              {/* /.col-xl-2 */}
-              <div className="col-sm-12 col-md-10 col-lg-6 col-xl-4 footer__widget footer__widget-newsletter">
-                <div className>
-                  <img
-                    alt="footer img"
-                    src="assets/images/iso.png"
-                    style={{ width: "150px", height: "150px" }}
-                  />
-                </div>
-                {/* /.footer-widget-content */}
-              </div>
-              {/* /.col-xl-4 */}
+              
             </div>
             {/* /.row */}
           </div>
@@ -134,14 +127,7 @@ const Footer = () => {
                   </nav>
                   <p className="mb-0">
                     {" "}
-                    © 2023 Evermore Limited, All Rights Reserved. Developed by
-                    <a
-                      href="/"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Yelnats
-                    </a>
+                    © 2023 Evermore Limited, All Rights Reserved.
                   </p>
                 </div>
                 {/* /.Footer-copyright */}

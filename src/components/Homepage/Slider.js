@@ -10,7 +10,7 @@ const Slider = () => {
                 <div className="row">
                   <div className="col-sm-12 col-md-12 col-lg-12 col-xl-9">
                     <div className="slide__content">
-                      <h2 className="slide__title">World Class Integrated Facilities Management Solution</h2>
+                      <h2 className="slide__title">World Class Integrated Facilities Management Solution, Trade And Manufacturing</h2>
                       <p className="slide__desc">Full spectrum of Integrated Facilities Management <br /> and Maintenance of properties and equipments</p>
                       <a href="about" className="btn btn__primary btn__hover2 mr-30">
                         <i className="icon-arrow-right" /><span>About Us</span>

@@ -46,9 +46,13 @@ const Agric = () => {
               <div className="text__block">
                 <h5 className="text__block-title">Agric Solution</h5>
                 <div>
-                  <p>Agric Solution</p>
                   <p>
-                    <img alt="ra im" height={336} src="assets/images/products/ag1.png" width={623} />
+                    <img
+                      alt="ra im"
+                      height={336}
+                      src="assets/images/products/ag1.png"
+                      width={623}
+                    />
                   </p>
                   <p>Irrigation</p>
                   <p>
@@ -131,7 +135,6 @@ const Agric = () => {
                       width={266}
                     />
                   </p>
-                  <p>Plam oil</p>
                   <p>
                     <img
                       alt=" drink, soft drink, juice, cocktailDescription automatically generated"
@@ -140,7 +143,7 @@ const Agric = () => {
                       width={358}
                     />
                   </p>
-                  <p>Plam oil</p>
+                  <p>Palm oil</p>
                   <p>
                     The production of palm oil in Nigeria reached 1.4 million
                     metric tons. Between 2009 and 2022, the production quantity
@@ -201,6 +204,9 @@ const Agric = () => {
                       src="assets/images/products/ag9.png"
                       width={390}
                     />
+                    <br />
+                    <b>Cocoa Beans</b>
+                    <br />
                     Cocoa beans are the seeds of cacao plants that are extracted
                     from its fruit called “pods”. When the seeds are removed
                     from pods, they are very moist. So, they need to be roasted
@@ -218,6 +224,8 @@ const Agric = () => {
                       src="assets/images/products/ag10.png"
                       width={401}
                     />
+                    <br />
+                    <br />
                     Natural Honey
                   </p>
                   <p>
@@ -257,10 +265,10 @@ const Agric = () => {
                   <p>
                     <img
                       alt=" food, snack, spiceDescription automatically generated"
-                      height={312}
-                      src="assets/images/products/ag11.png"
-                      width={312}
+                      src="assets/images/products/soy.png"
                     />
+                    <br />
+                    <br />
                     Soybeans
                   </p>
                   <p>
@@ -271,7 +279,10 @@ const Agric = () => {
                     hundreds of chemical products. As soybeans mature in the
                     pot, they ripen into hard, dry beans. Although most soybeans
                     are yellow, there are also rare varieties that are black,
-                    brown, or green colored.
+                    brown, or green colored. Soybeans are healthful and rich in
+                    protein, giving them numerous nutritional uses. It can be
+                    consumed in milk alternatives and taken in the form of
+                    supplements.
                   </p>
                   <p>
                     <br />
@@ -307,8 +318,8 @@ const Agric = () => {
                       src="assets/images/products/ag13.png"
                       width={376}
                     />
-                    Cotton Lint
                   </p>
+                  <b>Cotton Lint</b>
                   <p>
                     Cotton is a soft, fluffy staple fiber that grows in a ball
                     around the seeds of cotton plants. &nbsp;It belongs to the
@@ -326,9 +337,11 @@ const Agric = () => {
                       src="assets/images/products/ag14.png"
                       width={348}
                     />
-                    Gum Arabic
                   </p>
                   <p>
+                    <b>Gum Arabic</b>
+                    <br />
+                    <br />
                     Gum Arabic is a soluble fiber obtained from Acacia Senegal
                     and Acacia Seyal trees grown in sub-Saharan Africa,
                     particularly Sudan. It is one of the most important
