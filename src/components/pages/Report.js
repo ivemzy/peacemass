@@ -140,7 +140,7 @@ const Report = () => {
          Contact Info
       ============================ */}
 
-      <section id="team" className="team pb-50 pptr">
+      <section id="team" className="team pb-50 pptr d-none">
         <div className="container">
           <div className="row">
             {/* Member #4 */}

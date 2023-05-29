@@ -111,7 +111,7 @@ const About1 = () => {
               {/* /.row */}
             </div>
             {/* /.col-xl-5 */}
-            <div className="col-sm-12 col-md-12 col-lg-12">
+            {/* <div className="col-sm-12 col-md-12 col-lg-12">
               <div className="about__text mr-30">
                 <p style={{ fontSize: "18px" }}>
                   The initial purpose was to concentrate its core business and
@@ -136,7 +136,7 @@ const About1 = () => {
                   which are tailored to meet client’s need.
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
           {/* /.row */}
         </div>
