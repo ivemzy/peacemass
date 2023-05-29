@@ -139,38 +139,6 @@ const Report = () => {
       {/* ==========================
          Contact Info
       ============================ */}
-
-      <section id="team" className="team pb-50 pptr d-none">
-        <div className="container">
-          <div className="row">
-            {/* Member #4 */}
-            <div className="col-sm-12 col-md-10 col-lg-10 mx-auto">
-              <p className="text-justify">
-                The initial purpose was to concentrate its core business and
-                outsource property facility management functions for Shell
-                Nigeria Closed Pension Fund Administrators Limited, (SNCPFA).
-                This arrangement culminated in the development of a strategic
-                alliance with Evermore for the effective management of the
-                facilities Evermore took charge of similar functions from
-                Halliburton Energy Services Limited in 2003 and has since then
-                been the Integrated Facility Management Providers to clients
-                like SNEPCO, Addax, Schlumberger, Nigerian Breweries, KPMG, BOI,
-                Total,etc. Evermore Limited is presently engaged in full
-                spectrum of Integrated Facility Management and maintenance of
-                properties and equipment for several clients; commercial,
-                retail, residential, hospitality properties and specialized
-                properties. We specializes in the provision of Hard and Soft
-                Services and offers integrated property management services,
-                which are tailored to meet client’s need.
-              </p>
-            </div>
-            {/* /.col-lg-3 */}
-            {/* Member #7 */}
-          </div>{" "}
-          {/* /.row */}
-        </div>
-        {/* /.container */}
-      </section>
       <section id="contactInfo" className="contact contact-info pt-0">
         <div className="container">
           <div className="row">
