@@ -148,14 +148,11 @@ const Report = () => {
                 <h4 className="contact__info-box-title">HEAD OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:{" "}
-                    <a href="milto:info@evermoreltd.com">
-                      info@evermoreltd.com
+                    Email:<a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com
                     </a>
                   </li>
                   <li>
-                    Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba
-                    Street Abuja
+                    Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja
                   </li>
                   <li>Phone: +234-8107502055</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
@@ -171,15 +168,14 @@ const Report = () => {
                 <h4 className="contact__info-box-title">LAGOS OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:{" "}
-                    <a href="milto:info@evermoreltd.com">
-                      info@evermoreltd.com
+                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
+                      evermoretradecoltd132@outlook.com
                     </a>
                   </li>
                   <li>
                     Address: RM104 Jankara Market in Idumota, Lagos Island
                   </li>
-                  <li>Phone: +234 807 5991 329</li>
+                  <li>Phone: +234-8107502055</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}
@@ -195,16 +191,14 @@ const Report = () => {
                 </h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:{" "}
-                    <a href="milto:info@evermoreltd.com">
-                      info@evermoreltd.com
+                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
+                      evermoretradecoltd132@outlook.com
                     </a>
                   </li>
                   <li>
-                    Address: B102 Port harcourt main market, Rukpokwu-Obio,
-                    Rivers, Nigeria. 855022
+                    Address: B102 Port harcourt main market, Rukpokwu-Obio, Rivers, Nigeria. 855022
                   </li>
-                  <li>Phone: +234 807 2792 981</li>
+                  <li>Phone: +234-8107502055</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}
@@ -217,16 +211,14 @@ const Report = () => {
                 <h4 className="contact__info-box-title">WARRI OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:{" "}
-                    <a href="milto:info@evermoreltd.com">
-                      info@evermoreltd.com
+                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
+                      evermoretradecoltd132@outlook.com
                     </a>
                   </li>
                   <li>
-                    Address: Km 1077 Refinery Rd, Effurun 382101, Warri, Delta
-                    State Nigeria
+                    Address: Km 1077 Refinery Rd, Effurun 382101, Warri, Delta  State Nigeria
                   </li>
-                  <li>Phone: +234 807 5991 255</li>
+                  <li>Phone: +234-8107502055</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}

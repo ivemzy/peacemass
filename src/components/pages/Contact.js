@@ -73,7 +73,7 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">HEAD OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:info@evermoreltd.com">info@evermoreltd.com</a></li>
+                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
                       <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
                       <li>Phone: +234-8107502055</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
@@ -85,7 +85,7 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">ABUJA OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:info@evermoreltd.com">info@evermoreltd.com</a></li>
+                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
                       <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
                       <li>Phone: +234-8107502055</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
@@ -97,7 +97,7 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">PORT HARCOURT OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:info@evermoreltd.com">info@evermoreltd.com</a></li>
+                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
                       <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
                       <li>Phone: +234-8107502055</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
@@ -108,7 +108,7 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">WARRI OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:info@evermoreltd.com">info@evermoreltd.com</a></li>
+                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
                       <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
                       <li>Phone: +234-8107502055</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
