@@ -168,8 +168,8 @@ const Report = () => {
                 <h4 className="contact__info-box-title">LAGOS OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
-                      evermoretradecoltd132@outlook.com
+                    Email:<a href="milto:evermorecoltd.com">
+                      evermorecoltd.com
                     </a>
                   </li>
                   <li>
@@ -191,8 +191,8 @@ const Report = () => {
                 </h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
-                      evermoretradecoltd132@outlook.com
+                    Email:<a href="milto:evermorecoltd.com">
+                      evermorecoltd.com
                     </a>
                   </li>
                   <li>
@@ -211,8 +211,8 @@ const Report = () => {
                 <h4 className="contact__info-box-title">WARRI OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:evermoretradecoltd132@outlook.com">
-                      evermoretradecoltd132@outlook.com
+                    Email:<a href="milto:evermorecoltd.com">
+                      evermorecoltd.com
                     </a>
                   </li>
                   <li>
