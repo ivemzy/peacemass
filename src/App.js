@@ -30,7 +30,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <Router basename="/peacemass">
+    <Router basename="/peacemass/">
       <div className="App">
         <Header />
         <Routes>
