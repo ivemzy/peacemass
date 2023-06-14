@@ -15,11 +15,16 @@ import NewsEvent from './components/pages/NewsEvent';
 import Products from './components/pages/Products';
 import Contact from './components/pages/Contact';
 // product section
+import ProductFeed from './components/products/ProductFeed';
 import Agric from './components/products/Agric';
 import Medical from './components/products/Medical';
 import Transformer from './components/products/Transformer';
 import Block from './components/products/Block';
 import Solar from './components/products/Solar';
+import CattleFeed from './components/products/CattleFeed';
+import ChemicalProducts from './components/products/ChemicalFeed';
+import ChickenFeed from './components/products/ChickenFeed';
+import FishMachine from './components/products/FishMachine';
 import Transportation from './components/products/Transportation';
 import Footer from './components/Footer';
 
@@ -43,11 +48,16 @@ function App() {
           <Route path="/products" element={<Products />} />
           <Route path="/contact-us" element={<Contact />} />
           {/* product routes */}
+          <Route path="/product-feed" element={<ProductFeed />} />
           <Route path="/agric" element={<Agric />} />
           <Route path="/medical" element={<Medical />} />
           <Route path="/transformer" element={<Transformer />} />
           <Route path="/block-machine" element={<Block />} />
           <Route path="/solar" element={<Solar />} />
+          <Route path="/cattle-feed" element={<CattleFeed />} />
+          <Route path="/chemical-products" element={<ChemicalProducts />} />
+          <Route path="/chicken-feed" element={<ChickenFeed />} />
+          <Route path="/fish-machine" element={<FishMachine />} />
           <Route path="/transportation" element={<Transportation />} />
         </Routes>
         <Footer />

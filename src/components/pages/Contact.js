@@ -23,7 +23,7 @@ const AboutUs = () => {
                             08:00 AM - 5:00 PM</strong></p>
                         <div className="contact__number d-flex align-items-center">
                           <i className="icon-phone" />
-                          <a href="tel:+234-8107502055" style={{fontSize: '24px'}}>+234-8107502055</a>
+                          <a href="tel:+234 9138 185 753" style={{fontSize: '24px'}}>+234 9138 185 753</a>
                         </div>
                         
                       </div>
@@ -73,9 +73,9 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">HEAD OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
-                      <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
-                      <li>Phone: +234-8107502055</li>
+                      <li>Email: <a href="milto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com</a></li>
+                      <li>Address: Sky Memorial Complex Zone 5 Wuse Abuja FCT</li>
+                      <li>Phone: +234 9138 185 753</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
                     </ul>{/* /.contact__info-list */}
                   </div>{/* /.contact-info-box */}
@@ -85,9 +85,9 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">ABUJA OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
-                      <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
-                      <li>Phone: +234-8107502055</li>
+                      <li>Email: <a href="milto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com</a></li>
+                      <li>Address: Sky Memorial Complex Zone 5 Wuse Abuja FCT</li>
+                      <li>Phone: +234 9138 185 753</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
                     </ul>{/* /.contact__info-list */}
                   </div>{/* /.contact-info-box */}
@@ -97,9 +97,9 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">PORT HARCOURT OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
-                      <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
-                      <li>Phone: +234-8107502055</li>
+                      <li>Email: <a href="milto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com</a></li>
+                      <li>Address: Sky Memorial Complex Zone 5 Wuse Abuja FCT</li>
+                      <li>Phone: +234 9138 185 753</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
                     </ul>{/* /.contact__info-list */}
                   </div>{/* /.contact-info-box */}
@@ -108,9 +108,9 @@ const AboutUs = () => {
                   <div className="contact-info-box">
                     <h4 className="contact__info-box-title">WARRI OFFICE</h4>
                     <ul className="contact__info-list list-unstyled">
-                      <li>Email: <a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a></li>
-                      <li>Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</li>
-                      <li>Phone: +234-8107502055</li>
+                      <li>Email: <a href="milto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com</a></li>
+                      <li>Address: Sky Memorial Complex Zone 5 Wuse Abuja FCT</li>
+                      <li>Phone: +234 9138 185 753</li>
                       <li>Hours: Mon-Fri: 8am – 5pm</li>
                     </ul>{/* /.contact__info-list */}
                   </div>{/* /.contact-info-box */}

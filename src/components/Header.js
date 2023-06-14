@@ -6,8 +6,8 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg sticky-navbar">
         <div className="container">
           <a className="navbar-brand" href="/">
-            <img src="assets/images/logo/mainlogo.png" className="logo-light" style={{maxWidth: '140px'}} alt="logo" />
-            <img src="assets/images/logo/mainlogo.png" className="logo-dark" style={{maxWidth: '120px' }} alt="logo" />
+            <img src="assets/images/logo/peace.png" className="logo-light" style={{maxWidth: '50px'}} alt="logo" />
+            <img src="assets/images/logo/peace.png" className="logo-dark" style={{maxWidth: '60px' }} alt="logo" />
           </a>
           <button className="navbar-toggler" type="button">
             <span className="menu-lines"><span></span></span>
@@ -21,7 +21,7 @@ const Header = () => {
                 <i className="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul className="dropdown-menu">
                   <li className="nav__item"><a href="/about" className="nav__item-link">About Us</a></li>
-                  <li className="nav__item"><a href="/why-us" className="nav__item-link">Why Evermore</a></li>
+                  <li className="nav__item"><a href="/why-us" className="nav__item-link">Why Peacemass</a></li>
                   <li className="nav__item"><a href="/leadership" className="nav__item-link">Leadership</a></li>
                 </ul>
               </li>

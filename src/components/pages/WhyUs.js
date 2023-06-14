@@ -8,7 +8,7 @@ const WhyUs = () => {
             <div className="container">
               <div className="row">
                 <div className="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-                  <h1 className="pagetitle__heading">Why Evermore?</h1>
+                  <h1 className="pagetitle__heading">Why Peacemass?</h1>
                   <p className="pagetitle__desc">We recognize the overall business objectives of our clients and the role effective Facilities Management plays in enabling our customers to meet their objectives</p>
                   <a href="/services.php" className="btn btn__primary btn__hover2">
                     <i className="icon-arrow-right" /><span>Our Services</span>
@@ -34,7 +34,7 @@ const WhyUs = () => {
                         <h5>Dedicated Customer Teams &amp; Agile Services</h5>
                         <p>Our worldwide presence ensures the timeliness, cost efficiency compliance adherence required to
                           ensure your production timelines.</p>
-                        <a href="whyEvermore#" className="btn btn__white btn__link">
+                        <a href="whyPeacemass#" className="btn btn__white btn__link">
                           <i className="icon-arrow-right" /> <span>Schedule An Appointment</span>
                         </a>
                       </div>{/* /.widget-download */}
@@ -42,7 +42,7 @@ const WhyUs = () => {
                     <div className="widget widget-download">
                       <h5 className="widget__title">Download</h5>
                       <div className="widget__content">
-                        <a href="whyEvermore#" className="btn btn__secondary btn__block btn__hover3">
+                        <a href="whyPeacemass#" className="btn btn__secondary btn__block btn__hover3">
                           <span>Company Brochure</span>
                           <img src="assets/images/icons/pdf.png" alt="pdf" />
                         </a>
@@ -89,11 +89,11 @@ const WhyUs = () => {
                       <div className="footer__widget-content">
                         <nav>
                           <ul className="list-unstyled">
-                            <li><a href="whyEvermore#" style={{color: '#000', fontSize: '16px'}}>Strengthen clients brand positioning by reducing delivery risks.</a></li>
-                            <li><a href="whyEvermore#" style={{color: '#000', fontSize: '16px'}}>Implementacustomerservicemodelthatisfocused on the delivery of “best in class” services.</a></li>
-                            <li><a href="whyEvermore#" style={{color: '#000', fontSize: '16px'}}>Align our product portfolio and processes in accordance with contractual as well as customer expectations.</a></li>
-                            <li><a href="whyEvermore#" style={{color: '#000', fontSize: '16px'}}>Provide risk free handover and delivery processes.</a></li>
-                            <li><a href="whyEvermore#" style={{color: '#000', fontSize: '16px'}}>Continuously implement customer feedback to support our procedures and continuous improvement program.</a></li>
+                            <li><a href="whyPeacemass#" style={{color: '#000', fontSize: '16px'}}>Strengthen clients brand positioning by reducing delivery risks.</a></li>
+                            <li><a href="whyPeacemass#" style={{color: '#000', fontSize: '16px'}}>Implementacustomerservicemodelthatisfocused on the delivery of “best in class” services.</a></li>
+                            <li><a href="whyPeacemass#" style={{color: '#000', fontSize: '16px'}}>Align our product portfolio and processes in accordance with contractual as well as customer expectations.</a></li>
+                            <li><a href="whyPeacemass#" style={{color: '#000', fontSize: '16px'}}>Provide risk free handover and delivery processes.</a></li>
+                            <li><a href="whyPeacemass#" style={{color: '#000', fontSize: '16px'}}>Continuously implement customer feedback to support our procedures and continuous improvement program.</a></li>
                           </ul>
                         </nav>
                       </div>{/* /.footer-widget-content */}
@@ -113,7 +113,7 @@ const WhyUs = () => {
                     <div className="col-sm-12 col-md-6 col-lg-12">
                       <div className="blog-item">
                         <div className="blog__img">
-                          <a href="whyEvermore#">
+                          <a href="whyPeacemass#">
                             <img src="assets/images/award.jpg" alt="blog images" />
                           </a>
                         </div>

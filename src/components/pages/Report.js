@@ -48,7 +48,7 @@ const Report = () => {
                 <br />
                 <form
                   className="contact__form-panel"
-                  action="https://evermoreltd.com/"
+                  action="https://Peacemassltd.com/"
                   method="post"
                   encType="multipart/form-data"
                 >
@@ -148,13 +148,13 @@ const Report = () => {
                 <h4 className="contact__info-box-title">HEAD OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com
+                    Email:<a href="milto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com
                     </a>
                   </li>
                   <li>
-                    Address: Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja
+                    Address: Sky Memorial Complex Zone 5 Wuse Abuja FCT
                   </li>
-                  <li>Phone: +234-8107502055</li>
+                  <li>Phone: +234 9138 185 753</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}
@@ -168,14 +168,14 @@ const Report = () => {
                 <h4 className="contact__info-box-title">LAGOS OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:info@evermorecoltd.com">
-                      info@evermorecoltd.com
+                    Email:<a href="milto:info@Peacemasscoltd.com">
+                      info@Peacemasscoltd.com
                     </a>
                   </li>
                   <li>
                     Address: RM104 Jankara Market in Idumota, Lagos Island
                   </li>
-                  <li>Phone: +234-8107502055</li>
+                  <li>Phone: +234 9138 185 753</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}
@@ -191,14 +191,14 @@ const Report = () => {
                 </h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:info@evermorecoltd.com">
-                      info@evermorecoltd.com
+                    Email:<a href="milto:info@Peacemasscoltd.com">
+                      info@Peacemasscoltd.com
                     </a>
                   </li>
                   <li>
                     Address: B102 Port harcourt main market, Rukpokwu-Obio, Rivers, Nigeria. 855022
                   </li>
-                  <li>Phone: +234-8107502055</li>
+                  <li>Phone: +234 9138 185 753</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}
@@ -211,14 +211,14 @@ const Report = () => {
                 <h4 className="contact__info-box-title">WARRI OFFICE</h4>
                 <ul className="contact__info-list list-unstyled">
                   <li>
-                    Email:<a href="milto:info@evermorecoltd.com">
-                      info@evermorecoltd.com
+                    Email:<a href="milto:info@Peacemasscoltd.com">
+                      info@Peacemasscoltd.com
                     </a>
                   </li>
                   <li>
                     Address: Km 1077 Refinery Rd, Effurun 382101, Warri, Delta  State Nigeria
                   </li>
-                  <li>Phone: +234-8107502055</li>
+                  <li>Phone: +234 9138 185 753</li>
                   <li>Hours: Mon-Fri: 8am – 5pm</li>
                 </ul>
                 {/* /.contact__info-list */}

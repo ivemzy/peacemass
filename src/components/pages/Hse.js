@@ -36,7 +36,7 @@ const Hse = () => {
                     <div className="portfolio__content">
                       <h4 className="portfolio__title"><a href="hse#">Health and Safety</a></h4>
                       <div className="divider__line divider__lg" />
-                      <p className="portfolio__desc" style={{color: '#000'}}>Evermore is committed to maintaining the integrity of assets within its possession and ensuring that the health and safety of the tenants, employees, contractors and other stakeholders are not negatively impacted by its operations.</p>
+                      <p className="portfolio__desc" style={{color: '#000'}}>Peacemass is committed to maintaining the integrity of assets within its possession and ensuring that the health and safety of the tenants, employees, contractors and other stakeholders are not negatively impacted by its operations.</p>
                     </div>{/* /.portfolio-content */}
                   </div>{/* /.portfolio-item */}
                 </div>{/* /.col-lg-4 */}
@@ -49,7 +49,7 @@ const Hse = () => {
                     <div className="portfolio__content">
                       <h4 className="portfolio__title"><a href="hse#">Environment</a></h4>
                       <div className="divider__line divider__lg" />
-                      <p className="portfolio__desc" style={{color: '#000'}}>Evermore is committed to providing quality service in a manner that ensures a safe and healthy workplace. We operate in compliance with all relevant environmental legislation and strive to apply environmental best practices in all we do.</p>
+                      <p className="portfolio__desc" style={{color: '#000'}}>Peacemass is committed to providing quality service in a manner that ensures a safe and healthy workplace. We operate in compliance with all relevant environmental legislation and strive to apply environmental best practices in all we do.</p>
                     </div>{/* /.portfolio-content */}
                   </div>{/* /.portfolio-item */}
                 </div>{/* /.col-lg-4 */}

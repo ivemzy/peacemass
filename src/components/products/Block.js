@@ -1,6 +1,6 @@
 import React from "react";
 
-const Agric = () => {
+const Block = () => {
   return (
     <div>
       <section
@@ -137,4 +137,4 @@ const Agric = () => {
   );
 };
 
-export default Agric;
+export default Block;

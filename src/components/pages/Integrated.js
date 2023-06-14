@@ -54,7 +54,7 @@ const Integrated = () => {
                 {/* portfolio item #1 */}
                 <div className="row heading heading-2 mb-40">
                   <div className="col-sm-12 col-md-12 col-lg-12">
-                    <span className="heading__subtitle">Evermore Management Providing Strategic Direction</span>
+                    <span className="heading__subtitle">Peacemass Management Providing Strategic Direction</span>
                   </div>{/* /.col-lg-12 */}
                   <div className="col-sm-12 col-md-12 col-lg-12">
                     <h2 className="heading__title">Total Facilities Management / Service Delivery Management</h2>

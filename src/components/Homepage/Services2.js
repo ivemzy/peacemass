@@ -9,7 +9,7 @@ const Services2 = () => {
           <div className="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
             <div className="heading heading-2 text-center mb-40">
               <span className="heading__subtitle">Technical Industrial Solutions</span>
-              <h2 className="heading__title">Evermore Limited has 23+ years of experience with providing wide area of specialty services works listed below.</h2>
+              <h2 className="heading__title">Peacemass Limited has 23+ years of experience with providing wide area of specialty services works listed below.</h2>
             </div>{/* /.heading */}
           </div>{/* /.col-lg-10 */}
         </div>
@@ -45,7 +45,7 @@ const Services2 = () => {
               <div className="service__content">
                 <div className="service__icon"><i className="icon-factory-2" /></div>
                 <h4 className="service__title">Project Management</h4>
-                <p className="service__desc">Evermore is result driven, and we believe that clients want to see an appreciable amount of performance in terms of quality ...</p>
+                <p className="service__desc">Peacemass is result driven, and we believe that clients want to see an appreciable amount of performance in terms of quality ...</p>
                 <a href="/#" className="btn btn__secondary btn__link">
                   <span>Read More</span>
                   <i className="icon-arrow-right" />

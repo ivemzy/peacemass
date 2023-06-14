@@ -16,13 +16,13 @@ const Footer = () => {
                   </p>
                   <p className="footer__contact-phone">
                     <i className="icon-phone" />
-                    <a href="tel:5565454117">+234-8107502055</a>
+                    <a href="tel:5565454117">+234 9138 185 753</a>
                   </p>
                   <p className="footer__contact-phone">
                   <i className="fa fa-envelope" />
-                    <a className="emailC" href="mailto:evermoretradecoltd132@outlook.com">evermoretradecoltd132@outlook.com</a>
+                    <a className="emailC" href="mailto:peacemasstransitlimited@gmail.com">peacemasstransitlimited@gmail.com</a>
                   </p>
-                  <p>Shop A08, Premier Plaza, Wuse Zone 3, by Idimba Street Abuja</p>
+                  <p>Sky Memorial Complex Zone 5 Wuse Abuja FCT</p>
                   <ul className="social__icons">
                     <li>
                       <a href="/">
@@ -59,7 +59,7 @@ const Footer = () => {
                         <a href="/newsevent">News &amp; Media</a>
                       </li>
                       <li>
-                        <a href="/why-us">Why Evermore</a>
+                        <a href="/why-us">Why Peacemass</a>
                       </li>
                       <li>
                         <a href="/contact-us">Contacts</a>
@@ -106,7 +106,7 @@ const Footer = () => {
           <div className="container">
             <div className="row">
               <div className="col-sm-12 col-md-3 col-lg-3">
-                <img src="assets/images/logo/mainlogo.png" style={{maxWidth: '150px'}} alt="logo" />
+                <img src="assets/images/logo/peace.png" style={{maxWidth: '70px'}} alt="logo" />
               </div>
               {/* /.col-lg-3 */}
               <div className="col-sm-12 col-md-9 col-lg-9 text-right">
@@ -127,7 +127,7 @@ const Footer = () => {
                   </nav>
                   <p className="mb-0">
                     {" "}
-                    © 2023 Evermore Limited, All Rights Reserved.
+                    © 2023 Peacemass Limited, All Rights Reserved.
                   </p>
                 </div>
                 {/* /.Footer-copyright */}

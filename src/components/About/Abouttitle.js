@@ -13,7 +13,7 @@ const About1 = () => {
         <div className="container">
           <div className="row">
             <div className="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-              <h1 className="pagetitle__heading">About Evermore Limited</h1>
+              <h1 className="pagetitle__heading">About Peacemass Limited</h1>
             </div>
             {/* /.col-xl-7 */}
           </div>
@@ -35,7 +35,7 @@ const About1 = () => {
                   <div className="about__text">
                     <h3>About us </h3>
                     <p className="text-justify">
-                      Evermore It Is Currently the Foremost Independent
+                      Peacemass It Is Currently the Foremost Independent
                       Integrated facilities Management Company in Nigeria with a
                       team of experienced experts Across the whole spectra of
                       the value chain including engineers, administrators,
@@ -43,7 +43,7 @@ const About1 = () => {
                       &amp; procurement specialists, trade, and Manufacturing.
                     </p>
                     <p className="text-justify">
-                      Evermore Limited (‘Evermore’) is a facilities management,
+                      Peacemass Limited (‘Peacemass’) is a facilities management,
                       Real Estate, Transportation, and Manufacturing company
                       that was incorporated in Nigeria.
                     </p>
@@ -118,16 +118,16 @@ const About1 = () => {
                   outsource property facility management functions for Shell
                   Nigeria Closed Pension Fund Administrators Limited, (SNCPFA).
                   This arrangement culminated in the development of a strategic
-                  alliance with Evermore for the effective management of the
+                  alliance with Peacemass for the effective management of the
                   facilities
                 </p>
                 <p style={{ fontSize: "18px" }}>
-                  Evermore took charge of similar functions from Halliburton
+                  Peacemass took charge of similar functions from Halliburton
                   Energy Services Limited in 2003 and has since then been the
                   Integrated Facility Management Providers to clients like
                   SNEPCO, Addax, Schlumberger, Nigerian Breweries, KPMG, BOI,
                   Total,etc. <br />
-                  Evermore Limited is presently engaged in full spectrum of
+                  Peacemass Limited is presently engaged in full spectrum of
                   Integrated Facility Management and maintenance of properties
                   and equipment for several clients; commercial, retail,
                   residential, hospitality properties and specialized

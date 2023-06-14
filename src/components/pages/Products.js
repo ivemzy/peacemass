@@ -4,7 +4,7 @@ const Products = () => {
   return (
     <div>
       <section id="pageTitle" className="page-title page-title-layout6 bg-overlay bg-parallax text-center">
-        <div className="bg-img"><img src="assets/images/page-titles/6.jpg" style={{Width:'100%', maxHeight: '170px'}} alt="background" /></div>
+        <div className="bg-img"><img src="assets/images/page-titles/bg.jpg" style={{Width:'100%', maxHeight: '170px'}} alt="background" /></div>
         <div className="container">
           <div className="row">
             <div className="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
@@ -27,6 +27,56 @@ const Products = () => {
           <div className="row">
             <div className="col-sm-12 col-md-12 col-lg-12">
               <div className="row">
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Fish Machine</h4>
+                    <a href="/fish-machine" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/fishfeedmachine.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Chicken Feed</h4>
+                    <a href="/chicken-feed" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/chickenfeed.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Chemical Products</h4>
+                    <a href="/chemical-products" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/chemicals.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Cattle Feed</h4>
+                    <a href="/cattle-feed" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/cattlefeed.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Animal Feed</h4>
+                    <a href="/product-feed" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/productfeed.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
                 <div className="col-md-4">
                   <div className=" job-item">
                     

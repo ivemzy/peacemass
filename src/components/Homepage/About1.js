@@ -8,18 +8,18 @@ const About1 = () => {
           <div className="col-sm-12 col-md-12 col-lg-6">
             <div className="about__img">
               <img
-                src="assets/images/about/1.png"
+                src="assets/images/about/1.jpg"
                 alt="about"
                 className="img-fluid"
               />
               <div
                 className="cta__banner"
-                style={{ backgroundColor: "#151e44" }}
+                style={{ backgroundColor: "#022008" }}
               >
                 <div className="cta__icon">
                   <i className="icon-factory-2" />
                 </div>
-                <h5 className="cta__title">Integrated Facility Management</h5>
+                <h5 className="cta__title">The Best Of Farm Products</h5>
               </div>
             </div>
             {/* /.about__img */}
@@ -27,17 +27,17 @@ const About1 = () => {
           {/* /.col-lg-6 */}
           <div className="col-sm-12 col-md-12 col-lg-6">
             <div className="heading heading-2 mt-50 mb-30">
-              <span className="heading__subtitle">Evermore Limited</span>
-              <h2 className="heading__title">Welcome to Evermore Limited</h2>
+              <span className="heading__subtitle">Peacemass Limited</span>
+              <h2 className="heading__title">Welcome to Peacemass Limited</h2>
               <p className="heading__desc" style={{ color: "#000" }}>
-                Welcome to Evermore Investments. We’re actively purchasing
+                Welcome to Peacemass Investments. We’re actively purchasing
                 commercial and residential property, building factories, we
                 create new ideas and collaborate with innovators from across
                 Nigeria and Africa to bring solutions we are in a joint venture
                 with big companies in Africa If you want to be part of the
                 revolution, get in touch today.
-                <br /><br /> We will make change happen together. Evermore Limited
-                (‘Evermore’) is a facilities management, Real Estate,
+                <br /><br /> We will make change happen together. Peacemass Limited
+                (‘Peacemass’) is a facilities management, Real Estate,
                 Transportation, and Manufacturing company that was incorporated
                 in Nigeria We have branch office in different countries in
                 Africa.
