@@ -27,6 +27,47 @@ const Products = () => {
           <div className="row">
             <div className="col-sm-12 col-md-12 col-lg-12">
               <div className="row">
+               
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Toilet Paper Machine</h4>
+                    <a href="/toilet-paper" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/toiletpaper.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Plastic T Shirt Machine</h4>
+                    <a href="/plastic-shirt-machine" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/shirtmachine.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">UPS With Isolation Transformer</h4>
+                    <a href="/ups-and-transformer" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/upstransformer.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">A4 Paper Machine</h4>
+                    <a href="/paper-machine" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/a4paper.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
                 <div className="col-md-4">
                   <div className=" job-item">
                     
@@ -128,6 +169,16 @@ const Products = () => {
                     <h4 className="job__title">Transportation </h4>
                     <a href="/transportation" className="btn btn__secondary btn__link">
                     <img className='img-responsive' src="assets/images/products/transportation.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
+                    </a>
+                  </div>{/* /.job-item */}
+                  <br />
+                </div>
+                <div className="col-md-4">
+                  <div className=" job-item">
+                    
+                    <h4 className="job__title">Water Bottle Machine</h4>
+                    <a href="/water-bottle-machine" className="btn btn__secondary btn__link">
+                    <img className='img-responsive' src="assets/images/products/waterbottle.png" style={{Width:'100%', maxHeight: '170px'}} alt="background" />
                     </a>
                   </div>{/* /.job-item */}
                   <br />

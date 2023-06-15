@@ -26,7 +26,12 @@ import ChemicalProducts from './components/products/ChemicalFeed';
 import ChickenFeed from './components/products/ChickenFeed';
 import FishMachine from './components/products/FishMachine';
 import Transportation from './components/products/Transportation';
+import PaperMachine from './components/products/PaperMachine';
+import PlasticClothMachine from './components/products/PlasticClothMachine';
+import UpsTransformer from './components/products/UpsTransformer';
 import Footer from './components/Footer';
+import ToiletPaper from './components/products/ToiletPaper';
+import WaterBottle from './components/products/WaterBottle';
 
 function App() {
   return (
@@ -59,6 +64,11 @@ function App() {
           <Route path="/chicken-feed" element={<ChickenFeed />} />
           <Route path="/fish-machine" element={<FishMachine />} />
           <Route path="/transportation" element={<Transportation />} />
+          <Route path="/paper-machine" element={<PaperMachine />} />
+          <Route path="/toilet-paper" element={<ToiletPaper />} />
+          <Route path="/water-bottle-machine" element={<WaterBottle />} />
+          <Route path="/ups-and-transformer" element={<UpsTransformer />} />
+          <Route path="/plastic-shirt-machine" element={<PlasticClothMachine />} />
         </Routes>
         <Footer />
       </div>
