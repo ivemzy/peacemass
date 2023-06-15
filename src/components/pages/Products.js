@@ -155,7 +155,7 @@ const Products = () => {
                   </div>{/* /.job-item */}
                   <br />
                 </div>
-                {/* <div className="col-md-4">
+                <div className="col-md-4 d-none">
                   <div className=" job-item">
                     <h4 className="job__title">Solar </h4>
                     <a href="/solar" className="btn btn__secondary btn__link">
@@ -163,7 +163,7 @@ const Products = () => {
                     </a>
                   </div>{/* /.job-item */}
                   <br />
-                </div> */}
+                </div>
                 <div className="col-md-4">
                   <div className=" job-item">
                     <h4 className="job__title">Transportation </h4>
